@@ -9,6 +9,26 @@ A comprehensive data analytics project analyzing the HBL Pakistan Super League (
 
 ---
 
+ <div style="background: linear-gradient(135deg, rgb(99, 73, 247) 0%, #7459d6 100%); padding: 40px; border-radius: 20px; text-align: center; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+    <h1 style="color: #FFD700; font-size: 3em; text-shadow: 2px 2px 4px #000;">HBL PSL 2026 Cricket Players Auction Analysis </h1>
+     <h2 style="color: #00FF7F; font-size: 2.2em;">EDA and analysis do Hammad Zahid</h2>
+     <p style="color: #90EE90; font-size: 1.3em;">🏏 HBL PSL 2026 Cricket Players Auction Analysis 📊</p>
+     <hr style="border: 2px solid #FFD700; width: 60%;">
+    <br>
+    <div style="background: rgba(255,255,255,0.08); padding: 18px; border-radius: 15px; margin: 20px;">
+       <h3 style="color: #220d0d;">📁 Dataset Collected By</h3>
+       <h2 style="color: #FFD700;">👨‍🏫 Sir Muhammad Aammar Tufail</h2>
+      <br>
+     <h3 style="color: #011816;">📈 EDA & Analysis By</h3>
+    <h2 style="color: #cdec42;">💻 Hammad Zahid</h2>
+</div>
+ <div style="color: #f0f0f0; font-size: 1.1em; margin-top: 10px;">
+      📧 Email: hammadzahid@example.com |
+         🔗 LinkedIn: <a href="https://linkedin.com/in/hammadzahid" style="color:#FFD700;">linkedin.com/in/hammadzahid</a> |
+        🐙 GitHub: <a href="https://github.com/hammadzahid" style="color:#FFD700;">github.com/hammadzahid</a> |
+        📊 Kaggle: <a href="https://kaggle.com/hammadzahid" style="color:#FFD700;">kaggle.com/hammadzahid</a>
+    </div>
+</div>
 ## 📊 Project Overview
 
 The Pakistan Super League (PSL) is Pakistan's premier T20 cricket league, with player auctions being a critical event where teams invest millions in building competitive squads. This project provides deep analytical insights into the 2026 auction dynamics.
